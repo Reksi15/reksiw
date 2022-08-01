@@ -52,10 +52,10 @@ ul > li {
     background-color: #fffa;
     backdrop-filter: blur(10px) saturate(160%) contrast(180%);
     border-radius: 10em;
-    padding: 1em;
+    padding: .5em;
     margin: .5em 0;
     box-shadow: rgb(28 32 93 / 24%) 0px 2px 8x 0px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 ul > li > a {
