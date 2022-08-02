@@ -45,6 +45,7 @@ ul {
     list-style-type: none;
     margin: 0 auto;
     padding: 2em;
+    width: 50%;
     height: 80%;
 }
 
